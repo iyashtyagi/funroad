@@ -15,7 +15,7 @@ function Progress({
       data-slot="progress"
       className={cn(
         "relative h-3 w-full overflow-hidden rounded-full",
-        "bg-transparent border ",
+        "bg-white border ",
         className
       )}
       {...props}
